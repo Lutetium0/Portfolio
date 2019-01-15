@@ -2,7 +2,7 @@
 title: "Clone"
 description: ""
 slug: "clone"
-image: clone_game.jpg
+image:
 keywords: ""
 categories:
     - ""
@@ -13,7 +13,7 @@ draft: false
 
 Clone is a 2D platformer made in Unity.
 
-[/img/clone_game.jpg]
+![](/img/blogs/clone_game.jpg)
 
 Team:<br/>
 Christian Boyd<br/>
