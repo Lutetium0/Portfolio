@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunxiao Cai</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content on Yunxiao Cai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clone</title>
+      <link>http://example.org/blogs/clone/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/clone/</guid>
+      <description>Clone is a 2D platformer made in Unity.
+Team: Christian Boyd Dong Wang Yunxiao Cai Liam Scott Tanner McDougal</description>
+    </item>
+    
+    <item>
+      <title>Clone</title>
+      <link>http://example.org/blogs/clone/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/clone/</guid>
+      <description>Clone is a 2D platformer made in Unity.
+Team: Christian Boyd Dong Wang Yunxiao Cai Liam Scott Tanner McDougal</description>
+    </item>
+    
+    <item>
+      <title>FightBackSlime!</title>
+      <link>http://example.org/blogs/slime/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/slime/</guid>
+      <description>FightBackSlime! is a casual game developed in Unity.
+ Team: Yunxiao Cai Jinrui Hu</description>
+    </item>
+    
+    <item>
+      <title>FightBackSlime!</title>
+      <link>http://example.org/blogs/slime/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/slime/</guid>
+      <description>FightBackSlime! is a casual game developed in Unity.
+ Team: Yunxiao Cai Jinrui Hu</description>
+    </item>
+    
+    <item>
+      <title>Fighters</title>
+      <link>http://example.org/blogs/fighters/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/fighters/</guid>
+      <description>Fighters is a 2D dual player fighting game made in Pygame.
+  Team: Sean Grillone Yunxiao Cai Cameron Kern</description>
+    </item>
+    
+    <item>
+      <title>Fighters</title>
+      <link>http://example.org/blogs/fighters/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/fighters/</guid>
+      <description>Fighters is a 2D dual player fighting game made in Pygame.
+  Team: Sean Grillone Yunxiao Cai Cameron Kern</description>
+    </item>
+    
+    <item>
+      <title>The Pill</title>
+      <link>http://example.org/blogs/thepill/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/thepill/</guid>
+      <description>The Pill is an 3D animation made in Unreal Engine 4
+ Team: Bryce Woodell Jess Ulloa Yunxiao Cai Austin Gibbons Butros Ajami Isaac Smith Dassan Verstrepen Scott Foden Wess Lancaster Jack McCarthy</description>
+    </item>
+    
+    <item>
+      <title>The Pill</title>
+      <link>http://example.org/blogs/thepill/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blogs/thepill/</guid>
+      <description>The Pill is an 3D animation made in Unreal Engine 4
+ Team: Bryce Woodell Jess Ulloa Yunxiao Cai Austin Gibbons Butros Ajami Isaac Smith Dassan Verstrepen Scott Foden Wess Lancaster Jack McCarthy</description>
+    </item>
+    
+  </channel>
+</rss>
