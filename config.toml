@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://lutetium0.github.io/Portfolio/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Yunxiao Cai"
 theme = "forty"
