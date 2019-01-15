@@ -1,0 +1,109 @@
+# Site settings
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Yunxiao Cai"
+theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Enter your disqus shortname to enable comments
+disqusShortname = ""
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "Yunxiao Cai"
+  description = "Software Engineer"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+    [[params.navigation.links]]
+      name = "About"
+      url = "https://github.com/Lutetium0/Resume/blob/master/Resume.pdf"
+    [[params.navigation.links]]
+      name = "Contact/Resume"
+      url = "https://github.com/Lutetium0/Resume/blob/master/Resume.pdf"
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Hi, my name is Yunxiao Cai"
+    subtitle = "Welcome to my portfolio!"
+    buttonText = "Projects"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+
+    [[params.tiles.showcase]]
+      title = "Fighters"
+      subtitle = "2D Dual Player Fighting Game"
+      image = "fighters.jpg"
+      url = "blogs/fighters"
+    [[params.tiles.showcase]]
+      title = "Clone"
+      subtitle = "2D Platformer Game"
+      image = "clone_title.jpg"
+      url = "blogs/clone"
+    [[params.tiles.showcase]]
+      title = "The Pill"
+      subtitle = "3D Short Animation"
+      image = "thepill.jpg"
+      url = "blogs/thepill"
+    [[params.tiles.showcase]]
+      title = "FightBackSlime!"
+      subtitle = "2D Casual Game"
+      image = "slime_title.jpg"
+      url = "blogs/slime"
+
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Yunxiao Cai"
+
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://github.com/Lutetium0"
+      label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-linkedin"
+      url= "https://www.linkedin.com/in/yunxiao-cai-0693a516b/"
+      label = "LinkedIn"
+
+    [[params.footer.quicklinks]]
+      text = ""
+      url= "https://github.com/Lutetium0/Resume/blob/master/Resume.pdf"
+      alt = "Resume"
