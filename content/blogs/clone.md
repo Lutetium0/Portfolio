@@ -13,6 +13,8 @@ draft: false
 
 Clone is a 2D platformer made in Unity.
 
+[/img/clone_game.jpg]
+
 Team:<br/>
 Christian Boyd<br/>
 Dong Wang<br/>
