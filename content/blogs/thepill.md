@@ -20,7 +20,7 @@ A screenshot of my blueprint for that light effect.
 ![](../../img/blogs/LightBlueprint.jpg)
 -<br/>
 Team:<br/>
-Yunxiao Cai (Lighting, Material, Animation)<br/>
+Yunxiao Cai (Lighting, Animation)<br/>
 Bryce Woodell (Cinematography, Editing)<br/>
 Jess Ulloa (Cinematography, Sound, Music, Environment)<br/>
 Austin Gibbons (Animation, Cinematography, Editing)<br/>
@@ -29,4 +29,4 @@ Isaac Smith (Cinematography, Editing, Texturing, Animation)<br/>
 Dassan Verstrepen (Cinematography, Editing)<br/>
 Scott Foden (Editing, Cinematography, Animation)<br/>
 Wess Lancaster (Music, Animation, Produce)<br/>
-Jack McCarthy<br/>
+Jack McCarthy (Animation)<br/>

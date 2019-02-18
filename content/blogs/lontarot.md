@@ -11,7 +11,7 @@ date: 2019-01-15T00:00:00-00:00
 draft: false
 ---
 
-Lontarot is a 2.5D platformer made in Unity.<br/>
+Lontarot is a 2.5D action role-playing game made in Unity.<br/>
 I did visual effect, inventory system, UI programming and story writing for this game.<br/>
 -<br/>
 A particle effect created by me for an ability of the main character.<br/>

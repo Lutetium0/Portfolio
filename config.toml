@@ -74,6 +74,11 @@ disqusShortname = ""
       image = "fighters.jpg"
       url = "blogs/fighters"
     [[params.tiles.showcase]]
+      title = "FightBackSlime!"
+      subtitle = "2D Casual Game"
+      image = "slime_title.jpg"
+      url = "blogs/slime"
+    [[params.tiles.showcase]]
       title = "Clone"
       subtitle = "2D Platformer Game"
       image = "clone_title.jpg"
@@ -83,11 +88,7 @@ disqusShortname = ""
       subtitle = "3D Short Animation"
       image = "thepill.jpg"
       url = "blogs/thepill"
-    [[params.tiles.showcase]]
-      title = "FightBackSlime!"
-      subtitle = "2D Casual Game"
-      image = "slime_title.jpg"
-      url = "blogs/slime"
+
 
 
   [params.blog]
