@@ -3,50 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blogs/clone/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/clone/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/slime/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/slime/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/fighters/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/fighters/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/thepill/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/lontarot/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/multiuserspreadsheet/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/thepill/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/categories/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/blogs/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://lutetium0.github.io/Portfolio/categories/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lutetium0.github.io/Portfolio/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lutetium0.github.io/Portfolio/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

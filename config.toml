@@ -58,7 +58,16 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
-
+    [[params.tiles.showcase]]
+      title = "Lontarot"
+      subtitle = "2.5D Action Role-Playing Game"
+      image = "Lontarot.jpg"
+      url = "blogs/lontarot"
+    [[params.tiles.showcase]]
+      title = "MultiUserSpreadsheet"
+      subtitle = "MultiUserSpreadsheet"
+      image = "MultiuserSpreadsheet.png"
+      url = "blogs/multiuserspreadsheet"
     [[params.tiles.showcase]]
       title = "Fighters"
       subtitle = "2D Dual Player Fighting Game"
