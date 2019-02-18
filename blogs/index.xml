@@ -44,7 +44,7 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lutetium0.github.io/Portfolio/blogs/lontarot/</guid>
-      <description>Lontarot is a 2.5D action role-playing game made in Unity. I did visual effect, inventory system, UI programming and story writing for this game. - A particle effect created by me for an ability of the main character. - The menu directly inherit from my MenuLayer script. Link to my MenuLayer Code Sample https://github.com/Lutetium0/LontarotUICodeSample/blob/master/MenuLayer.cs - The inventory inherit from my VerticalScrollMenuLayer script.  Link to my VerticalScrollMenuLayer Script Code Sample https://github.</description>
+      <description>Lontarot is a 2.5D action role-playing game made in Unity. I am working on visual effect, inventory system, UI programming and story writing for this game. - A particle effect created by me for an ability of the main character. - The menu directly inherit from my MenuLayer script. Link to my MenuLayer Code Sample https://github.com/Lutetium0/LontarotUICodeSample/blob/master/MenuLayer.cs - The inventory inherit from my VerticalScrollMenuLayer script.  Link to my VerticalScrollMenuLayer Script Code Sample https://github.</description>
     </item>
     
     <item>
