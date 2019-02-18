@@ -20,6 +20,6 @@ Link to my code sample for this client<br/>
 https://github.com/Lutetium0/MultiUserSpreadsheetClientSample/blob/master/Form1.cs<br/>
 -<br/>
 Team:<br/>
-Yunxiao Cai(Client, Network)<br/>
-Dong Wang(Server, Network)<br/>
-Rong Xiao(Server, Network)<br/>
+Yunxiao Cai (Client, Network)<br/>
+Dong Wang (Server, Network)<br/>
+Rong Xiao (Server, Network)<br/>
