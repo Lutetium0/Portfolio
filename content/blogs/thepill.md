@@ -16,6 +16,7 @@ The Pill is an 3D animation made in Unreal Engine 4.<br/>
 I developed the lighting effect from 2:53 to 3:06 with Unreal Blueprint.<br/>
 I also made the animation sequence from 3:07 to 3:21.<br/>
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/WVfgGY-7nik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-<br/>
 A screenshot of my blueprint for that light effect.
 ![](../../img/blogs/LightBlueprint.jpg)
 -<br/>
