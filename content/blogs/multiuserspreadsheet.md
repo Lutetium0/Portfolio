@@ -16,8 +16,6 @@ the same spreadsheet and edit cells in spreadsheet simultaneously.<br/>
 -<br/>
 A screenshot of the client developed by me in Windows Forms.<br/>
 ![](../../img/blogs/MultiuserSpreadsheet.png)<br/>
-Link to my code sample for this client<br/>
-https://github.com/Lutetium0/MultiUserSpreadsheetClientSample/blob/master/Form1.cs<br/>
 -<br/>
 Team:<br/>
 Yunxiao Cai (Client, Network)<br/>

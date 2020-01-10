@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://lutetium0.github.io/Portfolio/"
 languageCode = "en-us"
-title = "Yunxiao Cai"
+title = "Claude(Yunxiao) Cai"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Yunxiao Cai"
+  name = "Claude(Yunxiao) Cai"
   description = "Software Engineer"
 
   # Link custom assets relative to /static
@@ -35,21 +35,11 @@ disqusShortname = ""
     heading = "Page couldn't be found"
     text = "Please visit [this page](/)"
 
-    [[params.navigation.links]]
-      name = "Home"
-      url = "#"
-    [[params.navigation.links]]
-      name = "About"
-      url = "https://github.com/Lutetium0/Resume/blob/master/Resume.pdf"
-    [[params.navigation.links]]
-      name = "Contact/Resume"
-      url = "https://github.com/Lutetium0/Resume/blob/master/Resume.pdf"
-
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Yunxiao Cai"
+    title = "Hi, my name is Claude(Yunxiao) Cai"
     subtitle = "Welcome to my portfolio!"
     buttonText = "Projects"
 
@@ -101,19 +91,9 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Yunxiao Cai"
-
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://github.com/Lutetium0"
-      label = "GitHub"
+    copyright = "Claude(Yunxiao) Cai"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
       url= "https://www.linkedin.com/in/yunxiao-cai-0693a516b/"
       label = "LinkedIn"
-
-    [[params.footer.quicklinks]]
-      text = ""
-      url= "https://github.com/Lutetium0/Resume/blob/master/Resume.pdf"
-      alt = "Resume"
